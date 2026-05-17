@@ -2,7 +2,7 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Zbw_061010",
+    "password": "your password",    # 这里替换为你得数据库密码
     "database": "secondhand",
     "charset": "utf8mb4"
 }
